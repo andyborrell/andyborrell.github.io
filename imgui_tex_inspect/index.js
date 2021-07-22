@@ -195,7 +195,7 @@ var Module = typeof Module !== 'undefined' ? Module : {};
     }
   
    }
-   loadPackage({"files": [{"filename": "/fonts/DroidSans.ttf", "start": 0, "end": 190044, "audio": 0}, {"filename": "/fonts/ProggyClean.ttf", "start": 190044, "end": 231252, "audio": 0}, {"filename": "/fonts/Cousine-Regular.ttf", "start": 231252, "end": 275164, "audio": 0}, {"filename": "/fonts/ProggyTiny.ttf", "start": 275164, "end": 310820, "audio": 0}, {"filename": "/fonts/Roboto-Medium.ttf", "start": 310820, "end": 473408, "audio": 0}, {"filename": "/fonts/Karla-Regular.ttf", "start": 473408, "end": 490256, "audio": 0}, {"filename": "/fonts/binary_to_compressed_c.cpp", "start": 490256, "end": 503632, "audio": 0}, {"filename": "/demo_1.png", "start": 503632, "end": 943246, "audio": 0}], "remote_package_size": 943246, "package_uuid": "a5310c05-4c3b-4255-b0d9-8871a8ba4442"});
+   loadPackage({"files": [{"filename": "/fonts/DroidSans.ttf", "start": 0, "end": 190044, "audio": 0}, {"filename": "/fonts/ProggyClean.ttf", "start": 190044, "end": 231252, "audio": 0}, {"filename": "/fonts/Cousine-Regular.ttf", "start": 231252, "end": 275164, "audio": 0}, {"filename": "/fonts/ProggyTiny.ttf", "start": 275164, "end": 310820, "audio": 0}, {"filename": "/fonts/Roboto-Medium.ttf", "start": 310820, "end": 473408, "audio": 0}, {"filename": "/fonts/Karla-Regular.ttf", "start": 473408, "end": 490256, "audio": 0}, {"filename": "/fonts/binary_to_compressed_c.cpp", "start": 490256, "end": 503632, "audio": 0}, {"filename": "/demo_1.png", "start": 503632, "end": 943246, "audio": 0}], "remote_package_size": 943246, "package_uuid": "994a9993-e6d0-496f-b9fc-c12fcff5f041"});
   
   })();
   
